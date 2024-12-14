@@ -37,7 +37,7 @@ The application aligns with the mission to enhance legal literacy and bridge the
 ### Full Stack Development
 
 - [pasal-pintar-backend](https://github.com/Project404-PasalPintar/pasalpintar-backend) - Backend services for Pasal Pintar, including the AI and database management.
-- [pasal-pintar-mobile](https://github.com/Project404-PasalPintar/pasalpintar-mobile) - Frontend development repository for a user-friendly interface.
+- [pasal-pintar-mobile](https://github.com/Project404-PasalPintar/pasalpintar_mobile) - Frontend development repository for a user-friendly interface.
 
 ### AI and Generative Chatbot Models
 
