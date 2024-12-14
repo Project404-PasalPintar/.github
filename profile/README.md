@@ -41,7 +41,7 @@ The application aligns with the mission to enhance legal literacy and bridge the
 
 ### AI and Generative Chatbot Models
 
-- [pasal-pintar-ml](https://github.com/Project404-PasalPintar/pasalpintar-ml) - Machine learning models for the generative chatbot and legal assistance.
+- [pasal-pintar-chatbot](https://github.com/Project404-PasalPintar/pasalpintar-chatbot) - Machine learning models for the generative chatbot and legal assistance.
 
 ---
 
