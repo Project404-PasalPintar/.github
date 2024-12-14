@@ -6,10 +6,10 @@
 
 ## 👋 Members:
 
-- **Alif Suryadi** Full Stack Developer - active
-- **Aldi Musneldi** Mobile Developer - active
-- **Dwi Andhara Valkyrie** UX/UI Designer - active
-- **Hildiah Khairuniza** UX/UI Designer - active
+- **Alif Suryadi** - Full Stack Developer - active
+- **Aldi Musneldi** - Mobile Developer - active
+- **Dwi Andhara Valkyrie** - UX/UI Designer - active
+- **Hildiah Khairuniza** - UX/UI Designer - active
 
 ---
 
